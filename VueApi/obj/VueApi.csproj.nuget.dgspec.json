@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Online courses\\Projects\\vuejs-google-identity\\VueApi\\VueApi.csproj": {}
+  },
+  "projects": {
+    "E:\\Online courses\\Projects\\vuejs-google-identity\\VueApi\\VueApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Online courses\\Projects\\vuejs-google-identity\\VueApi\\VueApi.csproj",
+        "projectName": "VueApi",
+        "projectPath": "E:\\Online courses\\Projects\\vuejs-google-identity\\VueApi\\VueApi.csproj",
+        "packagesPath": "C:\\Users\\Pasha\\.nuget\\packages\\",
+        "outputPath": "E:\\Online courses\\Projects\\vuejs-google-identity\\VueApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pasha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
