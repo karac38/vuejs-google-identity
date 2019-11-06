@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>This is an about page test</h1>
     <div v-for="(item, i) in values" :key="i">
       <p>{{item}}</p>
     </div>
@@ -19,9 +19,10 @@ export default {
   methods:{
     async callApi(){
       await axios.get("https://localhost:5000/api/values").then(response => {
+        console.log(response);
         this.values = response.data;
       }).catch(error => {
-        this.values.push("oops "+err);
+        this.values.push("oops "+error);
       })
     }
   }
