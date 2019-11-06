@@ -1,0 +1,14 @@
+E:\Online courses\Projects\vuejs-google-identity\VueApi\bin\Debug\netcoreapp2.2\VueApi.deps.json
+E:\Online courses\Projects\vuejs-google-identity\VueApi\bin\Debug\netcoreapp2.2\VueApi.runtimeconfig.json
+E:\Online courses\Projects\vuejs-google-identity\VueApi\bin\Debug\netcoreapp2.2\VueApi.runtimeconfig.dev.json
+E:\Online courses\Projects\vuejs-google-identity\VueApi\bin\Debug\netcoreapp2.2\VueApi.dll
+E:\Online courses\Projects\vuejs-google-identity\VueApi\bin\Debug\netcoreapp2.2\VueApi.pdb
+E:\Online courses\Projects\vuejs-google-identity\VueApi\obj\Debug\netcoreapp2.2\VueApi.csprojAssemblyReference.cache
+E:\Online courses\Projects\vuejs-google-identity\VueApi\obj\Debug\netcoreapp2.2\VueApi.csproj.CoreCompileInputs.cache
+E:\Online courses\Projects\vuejs-google-identity\VueApi\obj\Debug\netcoreapp2.2\VueApi.RazorAssemblyInfo.cache
+E:\Online courses\Projects\vuejs-google-identity\VueApi\obj\Debug\netcoreapp2.2\VueApi.RazorAssemblyInfo.cs
+E:\Online courses\Projects\vuejs-google-identity\VueApi\obj\Debug\netcoreapp2.2\VueApi.AssemblyInfoInputs.cache
+E:\Online courses\Projects\vuejs-google-identity\VueApi\obj\Debug\netcoreapp2.2\VueApi.AssemblyInfo.cs
+E:\Online courses\Projects\vuejs-google-identity\VueApi\obj\Debug\netcoreapp2.2\VueApi.RazorTargetAssemblyInfo.cache
+E:\Online courses\Projects\vuejs-google-identity\VueApi\obj\Debug\netcoreapp2.2\VueApi.dll
+E:\Online courses\Projects\vuejs-google-identity\VueApi\obj\Debug\netcoreapp2.2\VueApi.pdb
